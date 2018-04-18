@@ -1,2 +1,2 @@
 # you-forgot
-Remind me if something has been done
+最近记性不好，有时候会忘记哪些事情已经做了，或者没做。所以，嗯，自己写个网站，免得自己忘记了。

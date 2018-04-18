@@ -1,0 +1,29 @@
+{
+  "name": "you-forgot",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "git@github.com:LiShiSangZi/you-forgot.git",
+  "author": "gogocorw <gogocrow@163.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "remixure build --env=dev",
+    "build": "remixure build --env=prod",
+    "startDev": "egg-bin dev"
+  },
+  "dependencies": {
+    "antd": "^3.4.1",
+    "egg": "^2.6.0",
+    "eventemitter2": "^5.0.1",
+    "koa": "^2.5.0",
+    "koa-static": "^4.0.2",
+    "mobx": "^4.1.1",
+    "mobx-react": "^5.0.0",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1",
+    "sqlite3": "^4.0.0"
+  },
+  "devDependencies": {
+    "egg-bin": "^4.6.3",
+    "remixure": "^1.0.0-beta3"
+  }
+}
