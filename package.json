@@ -8,7 +8,8 @@
   "scripts": {
     "dev": "remixure build --env=dev",
     "build": "remixure build --env=prod",
-    "startDev": "node app"
+    "startDev": "node app",
+    "eslint": "node script/eslint"
   },
   "dependencies": {
     "antd": "^3.4.1",

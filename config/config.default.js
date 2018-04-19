@@ -1,5 +1,3 @@
-const path = require('path');
-
 exports.keys = '123';
 
 exports.htmlPath = 'public/index.html';
